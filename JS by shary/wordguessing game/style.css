@@ -1,0 +1,102 @@
+body {
+    background-image: url('./img/68048510-guess-gold-text-on-black-background-3d-rendered-royalty-free-stock-picture-this-image-can-be-used-fo.jpg');
+    background-repeat: no-repeat;
+    /* width: 100%; */
+    background-size: cover;
+    background-position: center;
+}
+
+table,
+th,
+td {
+    text-align: center;
+    border: 2px solid;
+}
+
+td button {
+    width: 100%;
+}
+
+table {
+    background-color: rgba(232, 167, 82, 0.767);
+    margin: 30 20 20 20;
+    /* text-align: center; */
+    width: 60%;
+    height: 12vh;
+}
+
+tr {
+    height: 5vh;
+}
+
+.alpha-table {
+    /* margin: 15%; */
+    /* margin-top: 6%; */
+    margin-left: 150%;
+    /* height: 12%; */
+    width: 350%;
+
+}
+
+.YZ {
+    margin-left: 24px;
+}
+
+table button {
+    background-color: rgb(230, 234, 239);
+    /* width: 100%; */
+}
+
+
+/* .container #screen {
+    border: 2px solid rgba(232, 167, 82, 0.767);
+    border-radius: 10px;
+    margin-left: 27%;
+    padding-top: 12px;
+    font-size: 48px;
+    text-align: center;
+    background: rgba(232, 167, 82, 0.767);
+    height: 51px;
+    width: 45%;
+    margin-top: 24%;
+} */
+
+.container .inp {
+    border: 2px solid rgba(232, 167, 82, 0.767);
+    border-radius: 10px;
+    margin-left: 150%;
+    /* padding-top: 12px; */
+    font-size: 48px;
+    text-align: center;
+    background: rgba(232, 167, 82, 0.767);
+    height: 51px;
+    width: 205%;
+    margin-top: 73%;
+}
+
+.container button:hover {
+    cursor: pointer;
+    background-color: rgba(232, 167, 82, 0.767);
+}
+
+.container button:active {
+    background-color: rgba(69, 47, 18, 0.767);
+    /* color: black !important; */
+}
+.container2{
+    display: flex;
+    align-items: center;
+    border: 2px solid;
+    width: 20%;
+    height: 70vh;
+    margin-top: 10%;
+    border-color:rgba(232, 167, 82, 0.767); 
+    border-width: 2px solid;
+
+}
+.container2 h2{
+    color: rgba(232, 167, 82, 0.767);
+    font-weight: bold;
+    margin-top: -120%;
+}
+

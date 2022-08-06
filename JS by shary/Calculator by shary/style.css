@@ -1,0 +1,81 @@
+
+table{
+    text-align: center;
+    border: 2px solid;
+    /* margin: 30 20 20 20; */
+    /* text-align: center; */
+    width: 25%;
+    height: 60vh;
+    margin-left: 37%;
+    margin-top:  7%; 
+    border-radius: 20px;
+    /* border-color: blue; */
+    background-color: rgb(50, 50, 99);
+
+
+
+}
+td button {
+    border-radius: 4px;
+    width: 70%;
+    height: 40px;
+    border: 2px solid rgb(50, 50, 99);
+    background-color: rgb(184, 224, 211);
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: large;
+    box-shadow: 2px 2px 4px 4px whitesmoke;
+
+}
+tr {
+    height: 10vh;
+}
+td >.plus{
+    height: 100px;
+    margin-top: -53px;
+    margin-bottom: 11px;
+
+}
+/* .main{
+    display: flex;
+    align-items: centers;
+} */
+td button:hover{
+    color: blanchedalmond;
+    background-color: black;
+}
+td button:active{
+    color: blueviolet;
+    background-color: aliceblue;
+}
+
+.inp{
+    border: 2px solid rgb(50, 50, 99);
+    border-radius: 10px;
+    margin-left: 37%;
+ 
+    font-size: 48px;
+    text-align: center;
+    background: rgb(50, 50, 99);
+    height: 60px;
+    width: 24%;
+    margin-top: 4%;
+    margin-bottom: -32%;
+    box-shadow: 2px 2px 4px 4px rgb(50, 50, 99)  ;
+}
+.cal-body{
+    margin-top: -5%;
+    /* margin-left: 27%; */
+}
+h1{
+    text-align: center;
+    font-size:xx-large;
+    font-style: italic;
+    font-weight: bolder;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(0, 0, 0);
+    /* border: 1px solid rgb(50, 50, 99) ; */
+    /* background-color: rgb(133, 133, 172); */
+    
+}
+

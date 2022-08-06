@@ -1,0 +1,78 @@
+.container{
+    display: flex;
+    justify-content: center;
+}
+h1{
+    /* font-size: xx-large !important; */
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-align: center;
+    background-color: black;
+    font-weight: bolder;
+}
+*{
+    background-color: white;
+}
+.col-md-4{
+    display: flex;
+}
+.btn-btn-primary{
+    font-weight: bolder !important;
+}
+
+/* p{
+    color: white;
+}
+h5{
+    color: white;
+} */
+.col-md-4{
+    perspective: 1000px;
+}
+.card {
+    /* background-color: white; */
+    margin-top: 10px;
+    text-align: center;
+    /* height: 420px; */
+    box-shadow: rgb(0 0 0 / 24%) 0px 3px 8px;
+    transition: 2s linear;
+    /* line-height: 2px; */
+    border: 3px solid rgba(0,0,0,.125) !important ; 
+    border-radius: 7px !important;
+
+    
+}
+.card-body{
+    /* padding: 12px; */
+    margin-bottom:32px;
+}
+/* .card:hover{
+    transform: translateY(15px);
+    transition: 1s linear;
+} */
+
+.card{    
+    transition: all 1s ease;
+    transform-style: preserve-3d;
+  }
+
+  .card:hover {
+    transform: rotatey(-15deg);
+  }
+  .container1{
+    display: flex;
+    /* white-space: 6%; */
+  }
+  .container2{
+    display: flex;
+    /* white-space: 6%; */
+  }
+  .container3{
+    display: flex;
+    /* white-space: 6%; */
+  }
+  .container4{
+    display: flex;
+    /* white-space: 6%; */
+  }
